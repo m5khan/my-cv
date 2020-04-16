@@ -1,25 +1,22 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import styled from 'styled-components';
+import Resume from './components/Resume';
+
+const CvPage = styled.div`
+  width: 21cm;
+  height: 29.7cm;
+  background-color: white;
+`;
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+    <CvPage>
+      <div style={{padding: '30px'}}>
+        <Resume />
+      </div>
+    </CvPage>
+    </>
   );
 }
 
