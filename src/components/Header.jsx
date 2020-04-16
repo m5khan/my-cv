@@ -25,13 +25,13 @@ const Header = () => {
             <Grid item xs={2}>
                 <Avatar style={{width: '100%', height:'100%'}} alt="Shoaib Khan" src={'shoaib2.jpg'} />
             </Grid>
-            <Grid item xs={5}>
+            <Grid item xs={6}>
                 <Typography variant="h4">SHOAIB KHAN</Typography>
                 <Typography variant="body2" color="textSecondary">Felsennelkenanger 13 // M 237</Typography>
                 <Typography variant="body2" color="textSecondary">80937, Munich</Typography>
                 <Typography variant="body2" color="textSecondary">Germany</Typography>
             </Grid>
-            <Grid item xs={5}>
+            <Grid item xs={4}>
                 <SBox>
                     <MailIcon style={{verticalAlign: 'top', paddingRight: '10px'}} fontSize="small"></MailIcon><Typography variant="body2" component="span"><Link color="textPrimary" href="mailto:mshoaib.khan@tum.de">mshoaib.khan@tum.de</Link></Typography>
                 </SBox>
@@ -44,7 +44,6 @@ const Header = () => {
                 <SBox>
                 <LinkedInIcon style={{verticalAlign: 'top', paddingRight: '10px'}} fontSize="small"></LinkedInIcon><Typography variant="body2" component="span"><Link color="textPrimary" href="https://www.linkedin.com/in/shoaib-khan-65839687/">Linkedin</Link></Typography>
                 </SBox>
-
             </Grid>
         </Grid>
     )
