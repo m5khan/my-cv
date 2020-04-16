@@ -5,7 +5,7 @@ import Resume from './components/Resume';
 const CvPage = styled.div`
   width: 21cm;
   height: 29.7cm;
-  background-color: #f8f8f8;
+  background-color: #f7f7f7;
 `;
 
 function App() {

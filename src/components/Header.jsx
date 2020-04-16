@@ -23,7 +23,7 @@ const Header = () => {
         
         <Grid container justify="space-between" spacing={4}>
             <Grid item xs={2}>
-                <Avatar style={{width: '100%', height:'100%'}} alt="Shoaib Khan" src={'shoaib2.jpg'} />
+                <Avatar style={{width: '100%', height:'100%'}} alt="Shoaib Khan" src={'shoaib.png'} />
             </Grid>
             <Grid item xs={6}>
                 <Typography variant="h4">SHOAIB KHAN</Typography>
