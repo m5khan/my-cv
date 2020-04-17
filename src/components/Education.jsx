@@ -22,11 +22,11 @@ const EduCard = (props) => {
             </Grid>
             <Grid item xs={10}>
                 <Grid container justify="flex-start" alignItems="flex-end">
-                    <Grid item xs="6">
+                    <Grid item xs={6}>
                     <Typography variant="body2" component="p">{props.title}</Typography>
                     </Grid>
-                    <Grid item xs="6">
-                    <Typography component="p" variant="caption" color="TextSecondary">{props.duration}</Typography>
+                    <Grid item xs={6}>
+                    <Typography component="p" variant="caption" color="textSecondary">{props.duration}</Typography>
                     </Grid>
                 </Grid>
                 <Typography variant="subtitle1" component="p" color="textSecondary">{props.uni}</Typography>

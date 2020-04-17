@@ -97,5 +97,34 @@
             "image": "uok.jpg",
             "size": "small"
         }
-    } 
+    },
+    "projects" : [
+        {
+            "name": "Accommodate",
+            "detail": "Matchmaking platform for Accommodation search where not only tenant can search for accommodations rather Landlords can choose there tenants aswell. Accommodate was the final project of Web Applications Engineering Masters course. The project was developed from scratch including coming up with the business idea to business modelling, architecture designing, Development, deployment and presenting to the audience.",
+            "githubLink": "https://github.com/AccommoDateApp"
+        },
+        {
+            "name": "Lodge-In",
+            "detail": "Lodge-in is an implementation of a protype application feature for exploring Hotels and Lodging services using HERE Maps API, and booking them. The project demonstrate full-stack web application development with javascript technologies. Responsive front-end for both web and mobile devices implemented in React and Material UI, communicates with REST based backend service written in Node.js, Express.js, Typescript and MongoDB. The project is bundeled with Webpack and Dockerized for local installation and execution.",
+            "githubLink": "https://github.com/m5khan/lodge-in",
+            "webLink": "http://lodge-in.herokuapp.com"
+        },
+        {
+            "name": "usp-web-viewer",
+            "detail": "Urban Strategy Playground (USP) is a research group from TUM chair of Architectural Informatics aimed to develop methods and tools for detecting potential for infill development in urban planning areas and for development and verification of planning strategies on inner-city planning areas. This project was done as an Interdesciplinary project which uses the power of WebGL to visualize 3D models of the urban areas and the information associated with them in an interactive way.",
+            "githubLink": "https://github.com/m5khan/usp-web-viewer",
+            "webLink": "https://usp-web-viewer.herokuapp.com/?model=objexamples/Project.zip"
+        },
+        {
+            "name": "Post A Project for top.legal",
+            "detail": "To facilitate clients in publishing their projects for which they are seeking legal assistance, I implemented a feature that ask clients a series of questions and modify the future questions based on the used prior inputs. I implemented the front-end in React along with defining the model of the questions and the the interconnection between them in a data-sctructure.",
+            "webLink": "https://app.top.legal/de/post-project"
+        },
+        {
+            "name": "colwiz Citation Plugins for Google Documents",
+            "detail": "Colwiz, now combined with Wizdom.ai is a research management solution that help student and researchers in the academia to manage their research work easily. I developed citation plugins for Google documents along with UX designer. One integrated to Colwiz's Google Chrome Extension and the other one as an independant add-on for Google Documents. The project was challanging specially in the case of Google document manupulation and performance optimization.",
+            "webLink":"https://chrome.google.com/webstore/detail/wizdomai/djdocbgipfnggcpdejicpgjcaijcdlga?hl=en-US"
+        }
+    ] 
 }

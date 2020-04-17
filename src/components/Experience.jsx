@@ -19,13 +19,13 @@ import { Box, Divider, Grid, Paper, Typography } from '@material-ui/core';
 const Experience = (props) => {
     return (
         <>
-            <Grid container justify="space-between" alignItems="flex-end">
-                <Grid xs={7}>
+            <Grid container justify="space-between" alignItems="center">
+                <Grid item xs={7}>
                     <Typography variant="caption" color="primary" component="p">{props.company}</Typography>
                     <Typography variant="subtitle2" color="textPrimary" component="span">{props.title}</Typography>
                     <Typography style={{paddingLeft: '8px'}} align="right" variant="caption" component="span" color="textSecondary"><RoomIcon style={{verticalAlign: "text-bottom", fontSize: '16px'}} color="disabled" fontSize="small"></RoomIcon>{props.location}</Typography>
                 </Grid>
-                <Grid xs={5}>
+                <Grid item xs={5}>
                     <Typography align="right" variant="caption" component="p" color="textPrimary">{props.duration}</Typography>
                 </Grid>
             </Grid>

@@ -21,9 +21,9 @@ const SBox = styled(Box)`
 const Header = () => {
     return (
         <>
-        <Grid container justify="space-between" spacing={4}>
+        <Grid container justify="space-between" alignItems="flex-end" spacing={4}>
             <Grid item xs={2}>
-                <Avatar style={{width: '100%', height:'100%'}} alt="Shoaib Khan" src={'shoaib2.png'} />
+                <Avatar style={{width: '90px', height:'90px'}} alt="Shoaib Khan" src={'shoaib2.png'} />
             </Grid>
             <Grid item xs={6}>
                 <Typography variant="h4">SHOAIB KHAN</Typography>
@@ -49,7 +49,7 @@ const Header = () => {
         <Grid container justify="space-between" style={{marginTop:'15px'}}>
             <Grid item xs={2}></Grid>
             <Grid item xs={8}>
-                <Typography align="center" component="p" variant="caption">Passionate Software Engineer with a demonstrated history of working in tech startups and mid-sized companies. Team player, creative and I enjoy challenging myself.</Typography>
+                <Typography align="center" component="p" variant="caption">Passionate Software Engineer with a demonstrated history of working in tech startups and mid-sized companies. Team player, creative and ammused by challenging myself.</Typography>
             </Grid>
             <Grid item xs={2}></Grid>
         </Grid>
