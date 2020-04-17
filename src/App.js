@@ -28,13 +28,13 @@ function App() {
       <div style={{padding: '20px'}}>
       <Spacing height={10}/>
       <Typography variant="subtitle1">Language</Typography>
-      <Paper variant="outlined" square style={{padding: '20px'}}>
+      <Paper elevation={0} square style={{padding: '10px 20px'}}>
         <Language />
       </Paper>
 
       <Spacing height={15}/>
       <Typography variant="subtitle1">Portfolio</Typography>
-      <Paper variant="outlined" square style={{padding: '20px'}}>
+      <Paper elevation={0} square style={{padding: '10px 20px'}}>
         <Projects projects={ResumeData.projects}/>
       </Paper>
       </div>
