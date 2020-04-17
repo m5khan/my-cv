@@ -18,7 +18,7 @@ const EduCard = (props) => {
     return (
         <Grid container alignItems="center">
             <Grid item xs={2}>
-                <Avatar variant="square" src={props.image}></Avatar>
+                <Avatar style={props.size ? {width: '30px', height: '30px'} : {}} variant="square" src={props.image}></Avatar>
             </Grid>
             <Grid item xs={10}>
                 <Grid container justify="flex-start" alignItems="flex-end">

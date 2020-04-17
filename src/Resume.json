@@ -3,7 +3,7 @@
         {
             "company": "censhare AG",
             "title": "Working Student",
-            "duration": "Oct 2018 - March 2020 (1.3 Years)",
+            "duration": "Oct 2018 – Mar 2020 . 1.5 yrs",
             "location": "Munich, Germany",
             "content": [
                 "Develop and took ownership of an in-house product; A code snippets management solution developed for the internal team following complete SDCL. Web application development with angular 8, Node.js, typescript and censhare Headless CMS.",
@@ -13,7 +13,7 @@
         {
             "company": "Motius GmbH",
             "title": "Working Student",
-            "duration": "Aug 2018 - Oct 2020 (3 Months)",
+            "duration": "Aug 2018 – Oct 2020 . 3 mos",
             "location": "Munich, Germany",
             "content": [
                 "Data analysis project offered by Siemens. Analysis of traffic signal switching time in a team of four people and in close contact with the client. I joined this project from the mid until the end using serverless technology with node.js and python."
@@ -22,17 +22,17 @@
         {
             "company": "top.legal",
             "title": "Working Student",
-            "duration": "Feb 2018 - Aug 2020 (7 Months)",
+            "duration": "Feb 2018 – Aug 2020 . 7 mos",
             "location": "Munich, Germany",
             "content": [
                 "Working along with the Co-Founders of the young Legal-tech startup. Implemented a feature to facilitate clients seeking legal assistance in publishing their projects effortlessly so they can be connected to the appropriate legal practitioner.",
-                "Full-stack Web Application Development with reactJS, AWS Lambda running node.js and MySql."
+                "Full-stack Web Application Development with React.js, AWS Lambda running node.js and MySql."
             ]
         },
         {
             "company": "CRM Factory GmbH",
             "title": "Working student",
-            "duration": "June 2017 - Feb 2018 (9 Months)",
+            "duration": "Jun 2017 – Feb 2018 . 9 mos",
             "location": "Munich, Germany",
             "content": [
                 "Integration of main application component to the client businesses as a B2B service.",
@@ -42,7 +42,7 @@
         {
             "company": "Colwiz ltd.",
             "title": "Software Engineer",
-            "duration": "July 2013 - Sept 2016 (3 Years)",
+            "duration": "Jul 2013 – Sep 2016 . 3 yrs",
             "location": "Karachi, Pakistan",
             "content": [
                 "colwiz was a research management solution originated from the University of Oxford startup incubation program.",
@@ -87,14 +87,15 @@
             "duration": "oct 16 - Jan 20",
             "uni": "Technical University of Munich",
             "text": "Software Engineering, Machine Learning, Autonomous Driving, Computer Vision",
-            "image": "tum-logo.png"
+            "image": "tum.jpeg"
         },
         "BS" : {
             "title": "BS Computer Science",
             "duration": "Dec 09 - Dec 13",
             "uni": "University of Karachi",
             "text": "Algorithms and Data structures, Computer graphics, Software Engineering",
-            "image": "uok.jpg"
+            "image": "uok.jpg",
+            "size": "small"
         }
     } 
 }
