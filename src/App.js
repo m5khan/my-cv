@@ -12,7 +12,7 @@ import ResumeData from './Resume.json';
 const CvPage = styled.div`
   width: 21cm;
   height: 29.7cm;
-  background-color: #f7f7f7;
+  background-color: #ffffff;
 `;
 
 function App() {

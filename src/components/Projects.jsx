@@ -38,7 +38,7 @@ const Project = (props) => {
                     props.githubLink ?
                     <Box padding={1} textAlign="right">
                         <Link href={props.githubLink} target="_blank" rel="noopener">
-                            <GitHubIcon fontSize="small"style={{color: '#616263'}}></GitHubIcon>
+                            <GitHubIcon fontSize="small"color="action"></GitHubIcon>
                         </Link>
                     </Box>
                  : ''
@@ -47,7 +47,7 @@ const Project = (props) => {
                     props.webLink ? 
                     <Box padding={1} textAlign="right">
                         <Link href={props.webLink} target="_blank" rel="noopener">
-                            <LanguageIcon fontSize="small" style={{color: '#616263'}}></LanguageIcon>
+                            <LanguageIcon fontSize="small" color="action"></LanguageIcon>
                         </Link>
                     </Box>
                     : ""

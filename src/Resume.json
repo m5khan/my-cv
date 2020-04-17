@@ -6,8 +6,7 @@
             "duration": "Oct 2018 – Mar 2020 . 1.5 yrs",
             "location": "Munich, Germany",
             "content": [
-                "Develop and took ownership of an in-house product; A code snippets management solution developed for the internal team following complete SDCL. Web application development with angular 8, Node.js, typescript and censhare Headless CMS.",
-                "Supporting the solution's development team in achieving the requirements of the client by working on product customization."
+                "I was involved in supporting the solution's development team in achieving the requirements of the client by working on product customization. I also developed and took ownership of an in-house product; A code snippets management solution developed using Angular, Node.js and censhare Headless CMS for the internal team following complete SDCL."
             ]
         },
         {
@@ -16,7 +15,7 @@
             "duration": "Aug 2018 – Oct 2020 . 3 mos",
             "location": "Munich, Germany",
             "content": [
-                "Data analysis project offered by Siemens. Analysis of traffic signal switching time in a team of four people and in close contact with the client. I joined this project from the mid until the end using serverless technology with node.js and python."
+                "Worked on a data analysis project offered by Siemens to analyze traffic signal switching time in a team of four people and close contact with the client. We used serverless technology along with other Amazon web services, node.js and python."
             ]
         },
         {
@@ -25,8 +24,7 @@
             "duration": "Feb 2018 – Aug 2020 . 7 mos",
             "location": "Munich, Germany",
             "content": [
-                "Working along with the Co-Founders of the young Legal-tech startup. Implemented a feature to facilitate clients seeking legal assistance in publishing their projects effortlessly so they can be connected to the appropriate legal practitioner.",
-                "Full-stack Web Application Development with React.js, AWS Lambda running node.js and MySql."
+                "I Implemented a new feature to facilitate clients seeking legal assistance in publishing their projects effortlessly so they can be connected to the appropriate legal practitioner by working alongside co-founders in this legal-tech startup. Participated in the architectural design of the features and implemented it using React, Node.js on AWS Lambda and MySQL."
             ]
         },
         {
@@ -35,8 +33,7 @@
             "duration": "Jun 2017 – Feb 2018 . 9 mos",
             "location": "Munich, Germany",
             "content": [
-                "Integration of main application component to the client businesses as a B2B service.",
-                "Improving and supporting the product by Working along with a Senior Engineer."
+                "My contribution to the company was via working on the integration of the main application component to the client businesses as a B2B service. I also helped in improving and supporting the product by Working along with a Senior Engineer."
             ]
         },
         {
@@ -45,10 +42,7 @@
             "duration": "Jul 2013 – Sep 2016 . 3 yrs",
             "location": "Karachi, Pakistan",
             "content": [
-                "colwiz was a research management solution originated from the University of Oxford startup incubation program.",
-                "I Worked on the product, mostly implementing front-end features in a team of Developers and UX Designers.",
-                "Developed, took ownership and managed live releases of citations plugin for MS Office and Google Documents.",
-                "Data accumulation and pre-processing to support the generation of Research Author profiles."
+                "Colwiz was a research management solution originated from the University of Oxford startup incubation program. I Worked on the product, mostly implementing front-end features in a team of Developers and UX Designers. I also Developed, took ownership and managed live releases of citations plugin for MS Office and Google Documents. Additionally, I worked on data accumulation and pre-processing to support the generation of Research Author profiles."
             ]
         }
     ],
@@ -101,29 +95,29 @@
     "projects" : [
         {
             "name": "Accommodate",
-            "detail": "Matchmaking platform for Accommodation search where not only tenant can search for accommodations rather Landlords can choose there tenants aswell. Accommodate was the final project of Web Applications Engineering Masters course. The project was developed from scratch including coming up with the business idea to business modelling, architecture designing, Development, deployment and presenting to the audience.",
+            "detail": "Matchmaking platform for Accommodation search where not only the tenant can search for accommodations rather Landlords can choose their tenants as well. Accommodate was the final project of the Web Applications Engineering Masters course. The project was developed from scratch including coming up with the business idea to business modeling, architecture designing, Development, deployment and presenting to the audience.",
             "githubLink": "https://github.com/AccommoDateApp"
         },
         {
             "name": "Lodge-In",
-            "detail": "Lodge-in is an implementation of a protype application feature for exploring Hotels and Lodging services using HERE Maps API, and booking them. The project demonstrate full-stack web application development with javascript technologies. Responsive front-end for both web and mobile devices implemented in React and Material UI, communicates with REST based backend service written in Node.js, Express.js, Typescript and MongoDB. The project is bundeled with Webpack and Dockerized for local installation and execution.",
+            "detail": "Lodge-in is an implementation of a prototype application feature for exploring Hotels and Lodging services using HERE Maps API, and booking them. The project demonstrates full-stack web application development with javascript technologies. Responsive front-end for both web and mobile devices implemented in React and Material UI, communicates with REST-based backend service written in Node.js, Express.js, Typescript and MongoDB. The project is bundled with Webpack and Dockerized for local installation and execution.",
             "githubLink": "https://github.com/m5khan/lodge-in",
             "webLink": "http://lodge-in.herokuapp.com"
         },
         {
             "name": "usp-web-viewer",
-            "detail": "Urban Strategy Playground (USP) is a research group from TUM chair of Architectural Informatics aimed to develop methods and tools for detecting potential for infill development in urban planning areas and for development and verification of planning strategies on inner-city planning areas. This project was done as an Interdesciplinary project which uses the power of WebGL to visualize 3D models of the urban areas and the information associated with them in an interactive way.",
+            "detail": "Urban Strategy Playground (USP) is a research group from the TUM Chair of Architectural Informatics aimed to develop methods and tools for detecting the potential for infill development in urban planning areas and development and verification of planning strategies on inner-city planning areas. This project was done as an Interdisciplinary project which uses the power of WebGL to visualize 3D models of the urban areas and the information interactively associated with them.",
             "githubLink": "https://github.com/m5khan/usp-web-viewer",
             "webLink": "https://usp-web-viewer.herokuapp.com/?model=objexamples/Project.zip"
         },
         {
             "name": "Post A Project for top.legal",
-            "detail": "To facilitate clients in publishing their projects for which they are seeking legal assistance, I implemented a feature that ask clients a series of questions and modify the future questions based on the used prior inputs. I implemented the front-end in React along with defining the model of the questions and the the interconnection between them in a data-sctructure.",
+            "detail": "To facilitate clients in publishing their projects for which they are seeking legal assistance, I implemented a feature that asks clients a series of questions and modifies future questions based on the already selected prior inputs. I implemented the front-end in React along with defining the model of the questions and the interconnection between them in a data-structure.",
             "webLink": "https://app.top.legal/de/post-project"
         },
         {
             "name": "colwiz Citation Plugins for Google Documents",
-            "detail": "Colwiz, now combined with Wizdom.ai is a research management solution that help student and researchers in the academia to manage their research work easily. I developed citation plugins for Google documents along with UX designer. One integrated to Colwiz's Google Chrome Extension and the other one as an independant add-on for Google Documents. The project was challanging specially in the case of Google document manupulation and performance optimization.",
+            "detail": "Colwiz, now combined with Wizdom.ai is a research management solution that helps students and researchers in academia to manage their research work easily. I developed citation plugins for Google documents along with UX designers. One integrated to Colwiz's Google Chrome Extension and the other one as an independent add-on for Google Documents. The main challenges in this project were related to Google document manipulations and performance optimizations.",
             "webLink":"https://chrome.google.com/webstore/detail/wizdomai/djdocbgipfnggcpdejicpgjcaijcdlga?hl=en-US"
         }
     ] 
