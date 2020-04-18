@@ -27,13 +27,13 @@ function App() {
     <CvPage>
       <div style={{padding: '20px'}}>
       <Spacing height={10}/>
-      <Typography variant="subtitle1">Language</Typography>
+      <Typography variant="subtitle1">LANGUAGES</Typography>
       <Paper elevation={0} square style={{padding: '10px 20px'}}>
         <Language />
       </Paper>
 
       <Spacing height={15}/>
-      <Typography variant="subtitle1">Portfolio</Typography>
+      <Typography variant="subtitle1">PORTFOLIO</Typography>
       <Paper elevation={0} square style={{padding: '10px 20px'}}>
         <Projects projects={ResumeData.projects}/>
       </Paper>

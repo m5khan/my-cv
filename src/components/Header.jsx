@@ -49,7 +49,7 @@ const Header = () => {
         <Grid container justify="space-between" style={{marginTop:'15px'}}>
             <Grid item xs={1}></Grid>
             <Grid item xs={10}>
-                <Typography align="center" component="p" variant="caption">Passionate Software Engineer with a demonstrated history of working in tech startups and mid-sized companies. Team player, creative and amused by challenging myself.</Typography>
+                {/* <Typography align="center" component="p" variant="caption">Passionate Software Engineer with a demonstrated history of working in tech startups and mid-sized companies. Team player, creative and amused by challenging myself.</Typography> */}
             </Grid>
             <Grid item xs={1}></Grid>
         </Grid>

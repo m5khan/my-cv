@@ -16,7 +16,7 @@ const Resume = () => {
         <>
         <Header></Header>
         <Spacing height={15}/>
-        <Typography variant="subtitle1">Work Experience</Typography>
+        <Typography variant="subtitle1">WORK EXPERIENCE</Typography>
         <Paper elevation={0} square style={{padding: '10px 20px'}}>
         <Experience {...ResumeData.work[0]}/>
         <Spacing height={9}/>
@@ -34,13 +34,13 @@ const Resume = () => {
         </Paper>
 
         <Spacing height={10}/>
-        <Typography variant="subtitle1">Tech Skills</Typography>
+        <Typography variant="subtitle1">TECH SKILLS</Typography>
         <Paper elevation={0} style={{padding: '10px 20px'}}>
             <Skills skills={ResumeData.skills} skillsSecondary={ResumeData.skillsSecondary}/>
         </Paper>
 
         <Spacing height={10}/>
-        <Typography variant="subtitle1">Education</Typography>
+        <Typography variant="subtitle1">EDUCATION</Typography>
         <Paper elevation={0} square style={{padding: '10px 20px'}}>
             <Education ms={ResumeData.education.MS} bs={ResumeData.education.BS} />
         </Paper>
