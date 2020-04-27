@@ -12,7 +12,7 @@
         {
             "company": "Motius GmbH",
             "title": "Working Student",
-            "duration": "Aug 2018 – Oct 2020 . 3 mos",
+            "duration": "Aug 2018 – Oct 2018 . 3 mos",
             "location": "Munich, Germany",
             "content": [
                 "I was a part of a data analysis project offered by Siemens to analyze traffic signal switching time in a team of four people and close contact with the client. We used serverless technology along with other Amazon web services, node.js and python."
@@ -21,7 +21,7 @@
         {
             "company": "top.legal",
             "title": "Working Student",
-            "duration": "Feb 2018 – Aug 2020 . 7 mos",
+            "duration": "Feb 2018 – Aug 2018 . 7 mos",
             "location": "Munich, Germany",
             "content": [
                 "I Implemented a new feature to facilitate clients seeking legal assistance in publishing their projects effortlessly so they can be connected to the appropriate legal practitioner by working alongside co-founders in this legal-tech startup. I also participated in the architectural design of the features and implemented it using React, Node.js on AWS Lambda and MySQL."
@@ -72,6 +72,7 @@
         "C++",
         "VBA",
         "Redis",
+        "Hibernate",
         "Apache Nutch",
         "Apache Solr"
     ],

@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import { Grid, Paper, Typography } from '@material-ui/core';
+import { Divider ,Grid, Paper, Typography } from '@material-ui/core';
 
 import Resume from './components/Resume';
 import Spacing from './components/Spacing';
@@ -26,12 +26,12 @@ function App() {
 
     <CvPage>
       <div style={{padding: '20px'}}>
-      <Spacing height={10}/>
+      <Spacing height={30}/>
       <Typography variant="subtitle1">LANGUAGES</Typography>
       <Paper elevation={0} square style={{padding: '10px 20px'}}>
         <Language />
       </Paper>
-
+      <Divider />
       <Spacing height={15}/>
       <Typography variant="subtitle1">PORTFOLIO</Typography>
       <Paper elevation={0} square style={{padding: '10px 20px'}}>

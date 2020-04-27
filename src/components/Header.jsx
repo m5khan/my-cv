@@ -21,17 +21,19 @@ const SBox = styled(Box)`
 const Header = () => {
     return (
         <>
-        <Grid container justify="space-between" alignItems="flex-start" spacing={4}>
+        <Grid style={{padding: "0 20px"}} container justify="space-between" alignItems="flex-start">
             <Grid item xs={2}>
                 <Avatar style={{width: '90px', height:'90px', marginTop:'7px'}} alt="Shoaib Khan" src={'shoaib2.png'} />
             </Grid>
-            <Grid item xs={6}>
+            <Grid item xs={7}>
+                <Box>
                 <Typography variant="h4">SHOAIB KHAN</Typography>
                 <Typography variant="body2" color="textSecondary">Felsennelkenanger 13 // M 237</Typography>
                 <Typography variant="body2" color="textSecondary">80937, Munich</Typography>
                 <Typography variant="body2" color="textSecondary">Germany</Typography>
+                </Box>
             </Grid>
-            <Grid item xs={4}>
+            <Grid item xs={3}>
                 <SBox>
                     <MailIcon color="action" style={{verticalAlign: 'top', paddingRight: '10px'}} fontSize="small"></MailIcon><Typography variant="body2" component="span"><Link color="textSecondary" href="mailto:mshoaib.khan@tum.de">mshoaib.khan@tum.de</Link></Typography>
                 </SBox>

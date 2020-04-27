@@ -21,11 +21,11 @@ const EduCard = (props) => {
                 <Avatar style={props.size ? {width: '30px', height: '30px'} : {}} variant="square" src={props.image}></Avatar>
             </Grid>
             <Grid item xs={10}>
-                <Grid container justify="flex-start" alignItems="flex-end">
-                    <Grid item xs={6}>
+                <Grid container justify="space-between" alignItems="flex-end">
+                    <Grid item xs={7}>
                     <Typography variant="body2" component="p">{props.title}</Typography>
                     </Grid>
-                    <Grid item xs={6}>
+                    <Grid item xs={5}>
                     <Typography component="p" variant="caption" color="textSecondary">{props.duration}</Typography>
                     </Grid>
                 </Grid>

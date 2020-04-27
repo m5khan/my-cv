@@ -13,7 +13,11 @@ const Projects = (props) => {
             props.projects.map((p, i) => (
                 <Box key={i}>
                     <Project {...p}/>
-                    {i +1 !== props.projects.length ? <><Spacing height={8}/><Divider /><Spacing height={8} /></> : ''} 
+                    {i +1 !== props.projects.length ? <>
+                    <Spacing height={8}/>
+                    {/* <Divider /> */}
+                    <Spacing height={8} />
+                    </> : ''} 
                 </Box>
             ))
         }
