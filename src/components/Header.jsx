@@ -56,7 +56,7 @@ const Header = () => {
                 <GitHubIcon color="action" style={{verticalAlign: 'top', paddingRight: '10px'}} fontSize="small"></GitHubIcon><Typography variant="body2" component="span"><Link color="textSecondary" href="https://github.com/m5khan">Github/m5khan</Link></Typography>
                 </SBox>
                 <SBox>
-                <LinkedInIcon color="action" style={{verticalAlign: 'top', paddingRight: '10px'}} fontSize="small"></LinkedInIcon><Typography variant="body2" component="span"><Link color="textSecondary" href="https://www.linkedin.com/in/shoaib-khan-65839687/">Linkedin</Link></Typography>
+                <LinkedInIcon color="action" style={{verticalAlign: 'top', paddingRight: '10px'}} fontSize="small"></LinkedInIcon><Typography variant="body2" component="span"><Link color="textSecondary" href="https://www.linkedin.com/in/m5khan">linkedin.com/in/m5khan</Link></Typography>
                 </SBox>
             </Grid>
         </Grid>

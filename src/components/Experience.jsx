@@ -30,7 +30,13 @@ const Experience = (props) => {
                     <Typography align="right" variant="caption" component="p" color="textPrimary">{props.duration}</Typography>
                 </Grid>
             </Grid>
-            <ul style={{ paddingInlineStart: '14px', color: "#75828b", lineHeight: '0px' }}>
+            <ul style={{
+                paddingInlineStart: '16px',
+                color: "#75828b",
+                lineHeight: '0px',
+                textAlign: 'justify',
+                margin: '9px 0',
+             }}>
                 {contents(props.content)}
             </ul>
         </>
