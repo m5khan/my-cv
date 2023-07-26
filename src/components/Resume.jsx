@@ -25,15 +25,15 @@ const Resume = () => {
                 <Experience {...ResumeData.work[0]}/>
                 <Spacing height={9}/>
                 {/* <Divider /> */}
-                <Spacing height={9}/>
+                {/* <Spacing height={9}/> */}
                 <Experience {...ResumeData.work[1]}/>
                 <Spacing height={9}/>
                 {/* <Divider /> */}
-                <Spacing height={9}/>
+                {/* <Spacing height={9}/> */}
                 <Experience {...ResumeData.work[2]}/>
                 <Spacing height={9}/>
                 {/* <Divider /> */}
-                <Spacing height={9}/>
+                {/* <Spacing height={9}/> */}
                 <Experience {...ResumeData.work[3]}/>
                 <Spacing height={9}/>
                 {/* <Divider /> */}

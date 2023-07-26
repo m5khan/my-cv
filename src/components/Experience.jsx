@@ -2,6 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import RoomIcon from '@material-ui/icons/Room';
 import { Box, Divider, Grid, Paper, Typography } from '@material-ui/core';
+import { LineWeight } from '@material-ui/icons';
 
 
 // const experience = {
@@ -29,15 +30,19 @@ const Experience = (props) => {
                     <Typography align="right" variant="caption" component="p" color="textPrimary">{props.duration}</Typography>
                 </Grid>
             </Grid>
-            <Box>
+            <ul style={{ paddingInlineStart: '14px', color: "#75828b", lineHeight: '0px' }}>
                 {contents(props.content)}
-            </Box>
+            </ul>
         </>
     )
 }
 
 const contents = (c) => {
-    return c.map((i, id) => <Typography key={id} align="justify" variant="caption" color="textSecondary" component="p">{i}</Typography>);
+    return c.map((i, id) => (
+        <li key={id}>
+            <Typography key={id} align="justify" variant="caption" color="textSecondary">{i}</Typography>
+        </li>
+    ));
 }
 
 export default Experience;

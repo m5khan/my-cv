@@ -1,6 +1,18 @@
 {
     "work": [
         {
+            "company": "Smart In Media AG",
+            "title": "Softwareentwickler",
+            "duration": "June 2020 – Ongoing . 3 yrs",
+            "location": "Cologne, Germany",
+            "content": [
+                "Re-planned and implemented database models to achieve scalibility and better adaptation to modification",
+                "Revamped the User experience to decrease information loss and increased robustness",
+                "Introduced typescript in the project for better maintainability, scalibility and error prevention",
+                "Implemented containerization based deployment in CI/CD pipeline to increase availability in case of mishap"
+            ]
+        },
+        {
             "company": "censhare AG",
             "title": "Working Student",
             "duration": "Oct 2018 – Mar 2020 . 1.5 yrs",
