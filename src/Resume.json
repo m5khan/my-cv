@@ -79,16 +79,14 @@
     "education": {
         "MS" : {
             "title": "MS Informatics",
-            "duration": "oct 16 - Jan 20",
+            "duration": "2020",
             "uni": "Technical University of Munich",
-            "text": "Software Engineering, Machine Learning, Autonomous Driving, Computer Vision",
             "image": "tum.jpeg"
         },
         "BS" : {
             "title": "BS Computer Science",
-            "duration": "Dec 09 - Dec 13",
+            "duration": "2013",
             "uni": "University of Karachi",
-            "text": "Algorithms and Data structures, Computer graphics, Software Engineering",
             "image": "uok.jpg",
             "size": "small"
         }

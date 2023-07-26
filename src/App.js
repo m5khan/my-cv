@@ -27,10 +27,10 @@ function App() {
     <CvPage>
       <div style={{padding: '20px'}}>
       <Spacing height={30}/>
-      <Typography variant="subtitle1">LANGUAGES</Typography>
+      {/* <Typography variant="subtitle1">LANGUAGES</Typography>
       <Paper elevation={0} square style={{padding: '10px 20px'}}>
         <Language />
-      </Paper>
+      </Paper> */}
       <Divider />
       <Spacing height={15}/>
       <Typography variant="subtitle1">PORTFOLIO</Typography>
