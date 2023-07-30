@@ -17,7 +17,7 @@ const Resume = () => {
         <>
         <Header></Header>
         <Divider />
-        <Spacing height={10}/>
+        <Spacing height={60}/>
         <Box display="flex">
             <Box minWidth="470px">
                 <Typography variant="subtitle1">WORK EXPERIENCE</Typography>
