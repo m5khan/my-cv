@@ -9,7 +9,8 @@
                 "Re-planned and implemented database models to achieve scalibility and better adaptation to modification",
                 "Revamped the User experience to decrease information loss and increased robustness",
                 "Introduced typescript in the solution for better maintainability, scalibility and error prevention",
-                "Implemented containerization based deployment in CI/CD pipeline to increase availability in case of mishap"
+                "Implemented containerization based deployment in CI/CD pipeline to increase availability in case of mishap",
+                "First hand engaging with the client, understanding the requirements, proposing solutions, planning the timeline in Agile based software development"
             ]
         },
         {
@@ -69,30 +70,33 @@
         "Typescript",
         "React",
         "Redux",
-        "Angular 2+",
-        "Angular JS",
         "Material UI",
+        "Styled Components",
         "Node JS",
         "Express JS",
-        "HTML5",
-        "CSS3",
+        "Jest",
+        "Docker",
         "Git",
         "REST",
-        "Webpack",
         "MySQL",
         "MongoDB",
-        "Docker",
-        "Amazon Web Services"
+        "Linux",
+        "Nginx",
+        "Azure DevOps",
+        "AWS (S3 | Lambda | ECR | ECS)"
     ],
     "skillsSecondary": [
         "Java",
         "Python",
-        "C++",
+        "Go",
         "VBA",
         "Redis",
         "Hibernate",
         "Apache Nutch",
-        "Apache Solr"
+        "Apache Solr",
+        "Google app script",
+        "NestJS",
+        "Angular 2+"
     ],
     "education": {
         "MS" : {
