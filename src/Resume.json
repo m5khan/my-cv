@@ -2,14 +2,27 @@
     "work": [
         {
             "company": "Smart In Media AG",
-            "title": "Softwareentwickler",
+            "title": "Software Engineer",
             "duration": "June 2020 – Ongoing . 3 yrs",
             "location": "Cologne, Germany",
             "content": [
                 "Re-planned and implemented database models to achieve scalibility and better adaptation to modification",
                 "Revamped the User experience to decrease information loss and increased robustness",
-                "Introduced typescript in the project for better maintainability, scalibility and error prevention",
+                "Introduced typescript in the solution for better maintainability, scalibility and error prevention",
                 "Implemented containerization based deployment in CI/CD pipeline to increase availability in case of mishap"
+            ]
+        },
+        {
+            "company": "Colwiz ltd.",
+            "title": "Software Engineer",
+            "duration": "Jul 2013 – Sep 2016 . 3 yrs",
+            "location": "Karachi, Pakistan",
+            "content": [
+                "Boost speed in generation of research author profiles by extending Apache Nutch plugin; creating data processing pipeline",
+                "Develop, took ownership and release of Google Chrome's citations plugin on Google web store",
+                "Assisted backend team by help implementing scheduling tasks on Java based microservice",
+                "Scaled and improved text-search performance by deploying Apache SolrCloud on linux servers in distributed environemnt",
+                "Revamped the obsolete flash-based application to the newer web technology which resulted in faster performance and better distribution"
             ]
         },
         {
@@ -18,7 +31,18 @@
             "duration": "Oct 2018 – Mar 2020 . 1.5 yrs",
             "location": "Munich, Germany",
             "content": [
-                "I was involved in supporting the solution's development team in achieving the requirements of the client by working on product customization. I also developed and took ownership of an in-house product; A code snippets management solution developed using Angular, Node.js and censhare Headless CMS for the internal team following complete SDCL."
+                "I designed and developed code and documentation sharing solution to support different teams within the organization for better coordination and collaboration",
+                "Supporting the solution's development team in achieving the requirements of the client by working on product customization"
+            ]
+        },
+        {
+            "company": "top.legal",
+            "title": "Working Student",
+            "duration": "Feb 2018 – Aug 2018 . 7 mos",
+            "location": "Munich, Germany",
+            "content": [
+                "increased accessability and assurance for customer onboarding process to easily publish their proposals by implementing graph like forms using React",
+                "Worked closely with the CTO and participated in planning and designing the architecture of the new features"
             ]
         },
         {
@@ -31,30 +55,12 @@
             ]
         },
         {
-            "company": "top.legal",
-            "title": "Working Student",
-            "duration": "Feb 2018 – Aug 2018 . 7 mos",
-            "location": "Munich, Germany",
-            "content": [
-                "I Implemented a new feature to facilitate clients seeking legal assistance in publishing their projects effortlessly so they can be connected to the appropriate legal practitioner by working alongside co-founders in this legal-tech startup. I also participated in the architectural design of the features and implemented it using React, Node.js on AWS Lambda and MySQL."
-            ]
-        },
-        {
             "company": "CRM Factory GmbH",
             "title": "Working student",
             "duration": "Jun 2017 – Feb 2018 . 9 mos",
             "location": "Munich, Germany",
             "content": [
                 "My contribution to the company was via working on the integration of the main application component to the client businesses as a B2B service. I also helped in improving and supporting the product by Working along with a Senior Engineer."
-            ]
-        },
-        {
-            "company": "Colwiz ltd.",
-            "title": "Software Engineer",
-            "duration": "Jul 2013 – Sep 2016 . 3 yrs",
-            "location": "Karachi, Pakistan",
-            "content": [
-                "Colwiz is a research management solution originated from the University of Oxford startup incubation program. I Worked on the product, mostly implementing front-end features in a team of Developers and UX Designers. I also Developed, took ownership and managed live releases of citations plugin for MS Word and Google Documents. Additionally, I worked on data accumulation and pre-processing to support the generation of Research Author profiles."
             ]
         }
     ],
