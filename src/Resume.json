@@ -74,7 +74,6 @@
         "Express JS",
         "Styled Components",
         "Material UI",
-        "Electron",
         "Jest",
         "REST",
         "Linux",
@@ -90,14 +89,11 @@
         "Java",
         "Python",
         "VBA",
-        "Go",
         "Redis",
         "Hibernate",
         "Apache Nutch",
         "Apache Solr",
-        "Apache Tomcat",
         "Google app script",
-        "NestJS",
         "Angular 2+"
     ],
     "education": {
