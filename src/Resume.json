@@ -2,15 +2,15 @@
     "work": [
         {
             "company": "Smart In Media AG",
-            "title": "Software Engineer",
+            "title": "Software Developer",
             "duration": "June 2020 – Ongoing . 3 yrs",
             "location": "Cologne, Germany",
             "content": [
-                "Re-planned and implemented database models to achieve scalibility and better adaptation to modification",
+                "Re-planned and implemented database models to achieve scalability and better adaptation to modification",
                 "Revamped the User experience to decrease information loss and increased robustness",
-                "Introduced typescript in the solution for better maintainability, scalibility and error prevention",
-                "Implemented containerization based deployment in CI/CD pipeline to increase availability in case of mishap",
-                "First hand engaging with the client, understanding the requirements, proposing solutions, planning the timeline in Agile based software development"
+                "Introduced typescript in the solution for better maintainability, scalability, and error prevention",
+                "Implemented containerization-based deployment in CI/CD pipeline to increase availability in case of accidents",
+                "First-hand engagement with the client, understanding the requirements, proposing solutions, planning the timeline in Agile-based software development"
             ]
         },
         {
@@ -19,11 +19,11 @@
             "duration": "Jul 2013 – Sep 2016 . 3 yrs",
             "location": "Karachi, Pakistan",
             "content": [
-                "Boost speed in generation of research author profiles by extending Apache Nutch plugin; creating data processing pipeline",
-                "Develop, took ownership and release of Google Chrome's citations plugin on Google web store",
-                "Assisted backend team by help implementing scheduling tasks on Java based microservice",
-                "Scaled and improved text-search performance by deploying Apache SolrCloud on linux servers in distributed environemnt",
-                "Revamped the obsolete flash-based application to the newer web technology which resulted in faster performance and better distribution"
+                "Boost speed in the generation of research author profiles by extending the Apache Nutch plugin; creating a data processing pipeline",
+                "Develop, took ownership, and release Google Chrome's citations plugin on the Google web store",
+                "Assisted backend team by helping to implement scheduling tasks on Java-based microservice",
+                "Scaled and improved text-search performance by deploying Apache SolrCloud on Linux servers in distributed environment",
+                "Revamped obsolete flash-based application to the newer web technology which resulted in faster performance and better distribution"
             ]
         },
         {
@@ -32,7 +32,7 @@
             "duration": "Oct 2018 – Mar 2020 . 1.5 yrs",
             "location": "Munich, Germany",
             "content": [
-                "I designed and developed code and documentation sharing solution to support different teams within the organization for better coordination and collaboration",
+                "I designed and developed electron based code and documentation-sharing solution to support different teams within the organization for better coordination and collaboration",
                 "Supporting the solution's development team in achieving the requirements of the client by working on product customization"
             ]
         },
@@ -42,7 +42,7 @@
             "duration": "Feb 2018 – Aug 2018 . 7 mos",
             "location": "Munich, Germany",
             "content": [
-                "increased accessability and assurance for customer onboarding process to easily publish their proposals by implementing graph like forms using React",
+                "Increased accessibility and assurance for the customer onboarding process to easily publish their proposals by implementing graph-like forms using React",
                 "Worked closely with the CTO and participated in planning and designing the architecture of the new features"
             ]
         },
@@ -70,30 +70,32 @@
         "Typescript",
         "React",
         "Redux",
-        "Material UI",
-        "Styled Components",
         "Node JS",
         "Express JS",
+        "Styled Components",
+        "Material UI",
+        "Electron",
         "Jest",
+        "REST",
+        "Linux",
         "Docker",
         "Git",
-        "REST",
+        "Nginx",
         "MySQL",
         "MongoDB",
-        "Linux",
-        "Nginx",
         "Azure DevOps",
         "AWS (S3 | Lambda | ECR | ECS)"
     ],
     "skillsSecondary": [
         "Java",
         "Python",
-        "Go",
         "VBA",
+        "Go",
         "Redis",
         "Hibernate",
         "Apache Nutch",
         "Apache Solr",
+        "Apache Tomcat",
         "Google app script",
         "NestJS",
         "Angular 2+"

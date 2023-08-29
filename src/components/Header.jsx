@@ -24,7 +24,7 @@ const Header = () => {
         <>
         <Grid style={{padding: "0 20px"}} container justify="space-between" alignItems="flex-start">
             <Grid item xs={1.5}>
-                <Avatar style={{width: '90px', height:'90px', marginTop:'7px'}} alt="Shoaib Khan" src={'shoaib4.png'} />
+                <Avatar style={{width: '90px', height:'90px', marginTop:'7px'}} alt="Shoaib Khan" src={'shoaib5.png'} />
             </Grid>
             <Grid item xs={6.5}>
                 <Box>
@@ -41,7 +41,7 @@ const Header = () => {
                 </SBox> */}
                 <Box maxWidth="370px" style={{ marginTop: '10px' }}>
                     {/* <Typography style={{ fontSize: '11px' }} component="p" color="textSecondary">Software developer specialized in Web with a conscious mind for writing scalable and maintainable code, and providing attention to details</Typography> */}
-                    <Typography style={{ fontSize: '11px' }} component="p" color="textSecondary">Full-stack developer with a conscious mind for writing scalable and maintainable code, and providing attention to details</Typography>
+                    <Typography style={{ fontSize: '11px' }} component="p" color="textSecondary">Full-stack developer with a conscious mind for writing scalable and maintainable code and providing attention to details</Typography>
                 </Box>
                 </Box>
             </Grid>
